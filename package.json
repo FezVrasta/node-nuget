@@ -1,5 +1,5 @@
 {
-  "name": "nuget",
+  "name": "nuget-in-path",
   "version": "2.0.1",
   "description": "Nuget library wrapper for Node.js",
   "keywords": [
@@ -10,9 +10,12 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Kevin Malakoff (https://github.com/kmalakoff)",
+  "contributors": [
+    "Federico Zivolo <federico.zivolo@gmail.com>"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kmalakoff/node-nuget.git"
+    "url": "https://github.com/FezVrasta/node-nuget.git"
   },
   "engines": {
     "node": ">=0.8.0"

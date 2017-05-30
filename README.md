@@ -1,5 +1,12 @@
-nuget
+nuget-in-path
 ==================
+
+This is a fork of https://github.com/kmalakoff/node-nuget
+
+The only difference is that this package will attempt to use the locally installed version of NuGet before
+fallbacking to the one shipped with this package.
+
+------
 
 Nuget library wrapper for Node.js.
 
