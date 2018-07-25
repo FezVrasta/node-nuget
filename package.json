@@ -1,6 +1,6 @@
 {
   "name": "nuget-in-path",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Nuget library wrapper for Node.js",
   "keywords": [
     "node",
@@ -28,6 +28,6 @@
     "semver": "*",
     "shelljs": "*",
     "underscore": "*",
-    "vinyl-fs": "*"
+    "vinyl-fs": "~2"
   }
 }
